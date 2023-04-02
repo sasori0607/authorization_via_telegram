@@ -1,0 +1,6 @@
+pictures/
+postgres-data
+/.env.dev
+/.env.dev.db
+
+
